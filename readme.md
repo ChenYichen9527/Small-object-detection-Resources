@@ -2,10 +2,6 @@
 
 This is a repository dedicated to small object detection and tracking. It collects papers on small object detection/tracking from various conferences and journals, methods for small object detection using different sensors, as well as some commonly used small object datasets.
 
-
-
-
-
 ## 📑 Conference/Journal Papers
 
 | CVPR                                                         | ECCV                                                         | ICCV                                                         | TGRS                                                         | TPAMI                                                        | TIP                                                          | ISPRS                                                        |
@@ -14,7 +10,9 @@ This is a repository dedicated to small object detection and tracking. It collec
 
 
 
-## 📑 Different sensors
+## 📷 Sensor-based Resources
 
-
+| Visible Light                                                | Infrared                                                     | Hyperspectral                                                | Event Camera                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| - RGB channels <br> - Rich texture details <br> - Affected by lighting | - Thermal radiation <br> - Works in darkness <br> - Low resolution | - 100+ spectral bands <br> - Material identification <br> - High dimensionality | - Microsecond latency <br> - High dynamic range <br> - Asynchronous pixels |
 
