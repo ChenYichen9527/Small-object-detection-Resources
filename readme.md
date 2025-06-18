@@ -87,8 +87,8 @@ XX
 
 ### TNNLS
 
--  MICPL: Motion-Inspired Cross-Pattern Learning for Small-Object Detection in Satellite Videos（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10518061)][[Code](https://github.com/  UESTC-nnLab/MICPL)]  
--  Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10321723)][[Code](https://github.com/TinaLRJ/Multi frame-infrared-small-target-detection-DTUM)] 
+-  MICPL: Motion-Inspired Cross-Pattern Learning for Small-Object Detection in Satellite Videos（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10518061)][[Code](https://github.com/UESTC-nnLab/MICPL)]  
+-  Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10321723)][[Code](https://github.com/TinaLRJ/Multiframe-infrared-small-target-detection-DTUM)] 
 -  Computational Fluid Dynamic Network for Infrared Small Target Detection（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10949663)]
 -  A Time-Delay Feedback Neural Network for Discriminating Small, Fast-Moving Targets in Complex Dynamic Environments（TNNLS 2023）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9486995)]
 - 
