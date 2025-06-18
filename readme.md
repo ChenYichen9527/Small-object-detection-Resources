@@ -1,3 +1,5 @@
+# 🎯 Small Object Detection/Tracking Resources
+
 This is a repository dedicated to small object detection and tracking. It collects papers on small object detection/tracking from various conferences and journals, methods for small object detection using different sensors.
 
 ------
