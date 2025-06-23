@@ -14,10 +14,9 @@ This is a repository dedicated to small object detection and tracking. It collec
 
 ## 📑 Conference/Journal Papers
 
-Conference: [CVPR](#CVPR)/[ECCV](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4ohqti#ECCV)/[ICCV](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4ohqti#ICCV)/WACV/other conferences
+Conference: [CVPR](#CVPR)/[ECCV](#ECCV)/[ICCV](#ICCV)/WACV/other conferences
 
-Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4ohqti#TPAMI)/[TIP](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4ohqti#TIP)/[ISPRS](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4ohqti#ISPRS)/[TGRS](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4ohqti#TGRS)/other journals
-
+Journal: [TPAMI](#TPAMI)/[TIP](#TIP)/[ISPRS](#ISPRS)/[TGRS](#TGRS)/other journals
 
 
 ------
@@ -44,6 +43,8 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 
 ------
 
+<a name="ECCV"></a>
+
 ### ECCV
 
 - DSPDet3D: 3D Small Object Detection with Dynamic Spatial Pruning (ECCV 2024) [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04105.pdf)] 
@@ -54,6 +55,8 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 
 ------
 
+<a name="ICCV"></a>
+
 ### ICCV
 
 - Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning (ICCV 2023) [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_Small_Object_Detection_via_Coarse-to-fine_Proposal_Generation_and_Imitation_Learning_ICCV_2023_paper.pdf)] [[code](https://github.com/shaunyuan22/CFINet)]
@@ -61,6 +64,8 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 - Robust Small Object Detection on the Water Surface Through Fusion of Camera and Millimeter Wave Radar (ICCV 2021) [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheng_Robust_Small_Object_Detection_on_the_Water_Surface_Through_Fusion_ICCV_2021_paper.pdf)] 
 
 ------
+
+<a name="TPAMI"></a>
 
 ### TPAMI
 
@@ -72,6 +77,8 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 - Detection and Tracking Meet Drones Challenge (TPAMI 2022) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382506)]
 
 ------
+
+<a name="TIP"></a>
 
 ### TIP
 
@@ -86,7 +93,7 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 
 ------
 
-
+<a name="ISPRS"></a>****
 
 ### ISPRS
 
@@ -104,6 +111,8 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 - Cross-frame keypoint-based and spatial motion information-guided networks for moving vehicle detection and tracking in satellite videos  (ISPRS 2021) [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271621001301)]
 
 ------
+
+<a name="TGRS"></a>
 
 ### TGRS
 
@@ -135,6 +144,8 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 
 ------
 
+<a name="TNNLS"></a>
+
 ### TNNLS
 
 -  MICPL: Motion-Inspired Cross-Pattern Learning for Small-Object Detection in Satellite Videos（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10518061)] [[Code](https://github.com/UESTC-nnLab/MICPL)]  
@@ -147,6 +158,8 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 
 ------
 
+<a name="TMM"></a>
+
 ### TMM
 
 - Spatial-Temporal Aware-based Unsupervised Network for Infrared Small Target Detection（TMM 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891594)]
@@ -154,6 +167,8 @@ Journal: [TPAMI](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4o
 -  Learning Shape-Biased Representations for Infrared Small Target Detection（TMM 2024）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10288394)]
 
 ------
+
+<a name="TIM"></a>
 
 ### TIM
 
