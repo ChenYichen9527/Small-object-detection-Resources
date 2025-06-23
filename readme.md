@@ -187,10 +187,3 @@ Journal: [TPAMI](#TPAMI)/[TIP](#TIP)/[ISPRS](#ISPRS)/[TGRS](#TGRS)/other journal
 -  Temporal-Spatial Information Fusion Network for Multiframe Infrared Small Target Detection (TIM 2025) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10925510)]
 
 
-
-## Acknowledgments
-
-This repository is supported by the SIPC Team, College of Electronic Science and Technology, National University of Defense Technology.
-
-The SIPC Team is continuously recruiting Master's, Ph.D., and postdoctoral researchers. We also welcome outstanding undergraduate students to join our lab for research training. Interested candidates and researchers are encouraged to contact our faculty via email (lm8866@nudt.edu.cn).
-
