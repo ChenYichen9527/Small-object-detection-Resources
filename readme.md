@@ -93,7 +93,7 @@ Journal: [TPAMI](#TPAMI)/[TIP](#TIP)/[ISPRS](#ISPRS)/[TGRS](#TGRS)/other journal
 
 ------
 
-<a name="ISPRS"></a>****
+<a name="ISPRS"></a>
 
 ### ISPRS
 
