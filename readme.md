@@ -4,7 +4,7 @@ This is a repository dedicated to small object detection and tracking. It collec
 
 ##  📣  NEWS
 
-6/18/2025: We have organized a collection of research papers on small object detection and tracking (SODT).
+6/23/2025: We have organized a collection of research papers on small object detection and tracking (SODT).
 
 
 
