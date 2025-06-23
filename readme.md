@@ -1,6 +1,8 @@
 # 🎯 Small Object Detection/Tracking Resources
 
-This is a repository dedicated to small object detection and tracking. It collects papers on small object detection/tracking from various conferences and journals, methods for small object detection using different sensors.
+This is a repository dedicated to small object detection and tracking. It collects papers on small object detection/tracking from various conferences and journals, methods for small object detection using different sensors. 
+
+
 
 ##  📣  NEWS
 
@@ -173,23 +175,22 @@ Journal: [TPAMI](#TPAMI)/[TIP](#TIP)/[ISPRS](#ISPRS)/[TGRS](#TGRS)/other journal
 ### TIM
 
 -  Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection（TIM 2024）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10716701)] [[Code](https://github.com/GrokCV/SDD)]
-
 -  AER-Net: Adaptive Feature Enhancement and Hierarchical Refinement Network for Infrared Small Target Detection（TIM 2024）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10731950)] [[Code](https://github.com/fuqingzhang/AER-Net)]
-
 -  Infrared Small UAV Target Detection Based on Depthwise Separable Residual Dense Network and Multiscale Feature Fusion（TIM 2022）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9855493)]
-
 -  Real-Time Detection, Tracking, and Anomaly Analysis of Dim Small Space Targets for Space Situational Awareness Using Star Sensors (TIM 2025) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11014542)] 
-
 -  DFFIR-net: Infrared Dim Small Object Detection Network Constrained by Gray-level Distribution Model (TIM 2022) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9944376)] 
-
 -  MARFPNet: Multiattention and Adaptive Reparameterized Feature Pyramid Network for Small Target Detection on Water Surfaces (TIM 2024) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10737298)]
-
 -  Dim and Small Target Detection Based on Spatio-Temporal Jitter Estimation (TIM 2025) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891416)]
-
 -  Dynamic Weight-Guided Smooth-Sparse Decomposition for Small Target Detection Against Strong Vignetting Background (TIM 2024) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10352345)] [[Code](https://github.com/D-IceIce/DW-SSD)]
-
 -  WTAPNet: Wavelet Transform-Based Augmented Perception Network for Infrared Small-Target Detection (TIM 2024) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10711897)] [[Code](https://github.com/MinjieWan/WTAPNet)]
-
 -  A High-Performance Small Target Defect Detection Method for PCB Boards Based on a Novel YOLO-DFA Algorithm (TIM 2025) [[Paper](about:blank)]
-
 -  Temporal-Spatial Information Fusion Network for Multiframe Infrared Small Target Detection (TIM 2025) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10925510)]
+
+
+
+## Acknowledgments
+
+This repository is supported by the SIPC Team, College of Electronic Science and Technology, National University of Defense Technology.
+
+The SIPC Team is continuously recruiting Master's, Ph.D., and postdoctoral researchers. We also welcome outstanding undergraduate students to join our lab for research training. Interested candidates and researchers are encouraged to contact our faculty via email (lm8866@nudt.edu.cn).
+
