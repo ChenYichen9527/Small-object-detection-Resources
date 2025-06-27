@@ -234,7 +234,7 @@ Journal: [TPAMI](#TPAMI)/[TIP](#TIP)/[ISPRS](#ISPRS)/[TGRS](#TGRS)/[TNNLS](#TNNL
 
 ### TNNLS
 
--  MICPL: Motion-Inspired Cross-Pattern Learning for Small-Object Detection in Satellite Videos（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10518061)] [[Code](https://github.com/  UESTC-nnLab/MICPL)]  
+-  MICPL: Motion-Inspired Cross-Pattern Learning for Small-Object Detection in Satellite Videos（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10518061)] [[Code](https://github.com/UESTC-nnLab/MICPL)]  
 
 -  Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection（TNNLS 2025）[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10321723)] [[Code](https://github.com/TinaLRJ/Multiframe-infrared-small-target-detection-DTUM)] 
 
