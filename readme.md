@@ -62,7 +62,7 @@ Journal: [TPAMI](#TPAMI)/[TIP](#TIP)/[ISPRS](#ISPRS)/[TGRS](#TGRS)/[TNNLS](#TNNL
 - DQ-DETR: DETR with Dynamic Query for Tiny Object Detection (ECCV 2024) [[Paper](http://arxiv.org/abs/2404.03507)]  [[Code](https://github.com/Katie0723/DQ-DETR)]
 - IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection (ECCV 2024) [[Paper](https://eccv2024.ecva.net//virtual/2024/poster/425)]
 - Visible and Clear: Finding Tiny Objects in Difference Map (ECCV 2024) [[Paper](https://eccv2024.ecva.net//virtual/2024/poster/2280)]
-- [RFLA: Gaussian Receptive Field Based Label Assignment for Tiny Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3138_ECCV_2022_paper.php) (ECCV 2022) [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3138_ECCV_2022_paper.php)]
+- RFLA: Gaussian Receptive Field Based Label Assignment for Tiny Object Detection (ECCV 2022) [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3138_ECCV_2022_paper.php)]
 
 ------
 
