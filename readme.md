@@ -20,7 +20,7 @@ This is a repository dedicated to small object detection and tracking. It collec
 
 ![img](https://cdn.nlark.com/yuque/0/2025/png/57713803/1750765001913-1e42ead5-2d83-4798-9bc3-e494df966f82.png)
 
-[Classify the papers based on the sensors.](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/gokqiy4ynuq790ov)
+[Classify the papers based on the sensors.](https://github.com/ChenYichen9527/small_object_detection_resources/blob/main/sensor_based.md)
 
 ------
 

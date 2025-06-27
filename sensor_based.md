@@ -1,6 +1,6 @@
 # 🎯 Small Object Detection/Tracking Resources
 
-[Classify the papers based on the publications.](https://sodt.yuque.com/org-wiki-sodt-xynnvb/hyg52x/wzoz0xne4v4ohqti)
+[Classify the papers based on the publications.](https://github.com/ChenYichen9527/small_object_detection_resources/blob/main/readme.md)
 
 ### Visible 
 
