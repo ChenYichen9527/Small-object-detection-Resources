@@ -28,7 +28,7 @@ This is a repository dedicated to small object detection and tracking. It collec
 
 ## 📑 Conference/Journal Papers
 
-Conference: [CVPR](#CVPR)/[ECCV](#ECCV)/[ICCV](#ICCV)other conferences
+Conference: [CVPR](#CVPR)/[ECCV](#ECCV)/[ICCV](#ICCV)/other conferences
 
 Journal: [TPAMI](#TPAMI)/[TIP](#TIP)/[ISPRS](#ISPRS)/[TGRS](#TGRS)/[TNNLS](#TNNLS)//[TMM](#TMM)//[TIM](#TIM)/other journals
 
