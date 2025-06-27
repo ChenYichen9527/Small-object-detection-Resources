@@ -52,7 +52,7 @@ Journal: [TPAMI](#TPAMI)/[TIP](#TIP)/[ISPRS](#ISPRS)/[TGRS](#TGRS)/[TNNLS](#TNNL
 - Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection  (CVPR 2023) [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Dynamic_Coarse-To-Fine_Learning_for_Oriented_Tiny_Object_Detection_CVPR_2023_paper.pdf)] [[Code](https://github.com/Chasel-Tsui/mmrotate-dcfl)]
 - ISNet: Shape Matters for Infrared Small Target Detection (CVPR 2022) [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf)] [[Code](https://github.com/RuiZhang97/ISNet)]
 - QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection  (CVPR 2022) [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_QueryDet_Cascaded_Sparse_Query_for_Accelerating_High-Resolution_Small_Object_Detection_CVPR_2022_paper.pdf)] [[Code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)]
-- Interactive Multi-Class Tiny-Object Detection (CVPR 2022)  [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Interactive_Multi-Class_Tiny-Object_Detection_CVPR_2022_paper.pdf)] [[Code](https://github. com/ChungYi347/Interactive-Multi-ClassTiny-Object-Detection)]
+- Interactive Multi-Class Tiny-Object Detection (CVPR 2022)  [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Interactive_Multi-Class_Tiny-Object_Detection_CVPR_2022_paper.pdf)] [[Code](https://github.com/ChungYi347/Interactive-Multi-ClassTiny-Object-Detection)]
 
 ------
 
